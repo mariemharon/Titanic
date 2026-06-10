@@ -25,3 +25,6 @@ The main goal of this project is to build a robust predictive model using the *R
 * *Model Used:* Random Forest Classifier
 * *Performance:* High validation accuracy with a balanced Precision and Recall across classes.
 * *Top Features:* The project includes a generated feature importance plot that highlights which variables contribute the most to the predictions.
+
+
+git clone https://github.com/mariemharon/Titanic.git
